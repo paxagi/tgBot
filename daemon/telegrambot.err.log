@@ -1,0 +1,712 @@
+Tue, 11 Jan 2022 10:42:25 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 10:54:21 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:09:58 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:10:19 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:10:22 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:390:28)
+    at process.exit (node:internal/process/per_thread:184:15)
+    at monitor (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:390:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+Tue, 11 Jan 2022 11:11:24 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:11:26 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:11:28 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:390:28)
+    at process.exit (node:internal/process/per_thread:184:15)
+    at monitor (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:390:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+Tue, 11 Jan 2022 11:12:30 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:12:32 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:12:35 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:390:28)
+    at process.exit (node:internal/process/per_thread:184:15)
+    at monitor (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:390:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+Tue, 11 Jan 2022 11:13:23 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:13:25 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:13:28 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:390:28)
+    at process.exit (node:internal/process/per_thread:184:15)
+    at monitor (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:390:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+Tue, 11 Jan 2022 11:13:36 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:13:38 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:13:41 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:390:28)
+    at process.exit (node:internal/process/per_thread:184:15)
+    at monitor (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:390:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+Tue, 11 Jan 2022 11:13:52 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:13:55 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:13:57 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:390:28)
+    at process.exit (node:internal/process/per_thread:184:15)
+    at monitor (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:390:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+Tue, 11 Jan 2022 11:14:30 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:14:32 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:14:34 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:390:28)
+    at process.exit (node:internal/process/per_thread:184:15)
+    at monitor (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:390:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+Tue, 11 Jan 2022 11:14:43 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:14:45 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:14:48 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:390:28)
+    at process.exit (node:internal/process/per_thread:184:15)
+    at monitor (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:390:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+Tue, 11 Jan 2022 11:14:59 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:15:04 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:17:42 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:18:44 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:18:47 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 11:18:51 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:390:28)
+    at process.exit (node:internal/process/per_thread:184:15)
+    at monitor (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:390:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+Tue, 11 Jan 2022 11:19:52 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+E:\DATE\TelegramBot\wol.js:1
+﻿process.watchFile(script_name, function(curr, prev) {
+                   ^
+
+ReferenceError: script_name is not defined
+    at Object.<anonymous> (E:\DATE\TelegramBot\wol.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+E:\DATE\TelegramBot\wol.js:1
+﻿process.watchFile(script_name, function(curr, prev) {
+                   ^
+
+ReferenceError: script_name is not defined
+    at Object.<anonymous> (E:\DATE\TelegramBot\wol.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+E:\DATE\TelegramBot\wol.js:1
+﻿process.watchFile(script_name, function(curr, prev) {
+                   ^
+
+ReferenceError: script_name is not defined
+    at Object.<anonymous> (E:\DATE\TelegramBot\wol.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:390:28)
+    at process.exit (node:internal/process/per_thread:184:15)
+    at monitor (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:390:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+E:\DATE\TelegramBot\wol.js:1
+﻿process.watchFile(script_name, function(curr, prev) {
+                   ^
+
+ReferenceError: script_name is not defined
+    at Object.<anonymous> (E:\DATE\TelegramBot\wol.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+E:\DATE\TelegramBot\wol.js:1
+﻿process.watchFile(script_name, function(curr, prev) {
+                   ^
+
+ReferenceError: script_name is not defined
+    at Object.<anonymous> (E:\DATE\TelegramBot\wol.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+E:\DATE\TelegramBot\wol.js:1
+﻿process.watchFile(script_name, function(curr, prev) {
+                   ^
+
+ReferenceError: script_name is not defined
+    at Object.<anonymous> (E:\DATE\TelegramBot\wol.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:390:28)
+    at process.exit (node:internal/process/per_thread:184:15)
+    at monitor (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:390:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+Tue, 11 Jan 2022 11:26:40 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+E:\DATE\TelegramBot\wol.js:1
+﻿process.watchFile(wol.js, function(curr, prev) {
+                   ^
+
+ReferenceError: wol is not defined
+    at Object.<anonymous> (E:\DATE\TelegramBot\wol.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+E:\DATE\TelegramBot\wol.js:1
+﻿process.watchFile(wol.js, function(curr, prev) {
+                   ^
+
+ReferenceError: wol is not defined
+    at Object.<anonymous> (E:\DATE\TelegramBot\wol.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+E:\DATE\TelegramBot\wol.js:1
+﻿process.watchFile(wol.js, function(curr, prev) {
+                   ^
+
+ReferenceError: wol is not defined
+    at Object.<anonymous> (E:\DATE\TelegramBot\wol.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:390:28)
+    at process.exit (node:internal/process/per_thread:184:15)
+    at monitor (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:390:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+E:\DATE\TelegramBot\wol.js:1
+﻿process.watchFile(wol.js, function(curr, prev) {
+                   ^
+
+ReferenceError: wol is not defined
+    at Object.<anonymous> (E:\DATE\TelegramBot\wol.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+E:\DATE\TelegramBot\wol.js:1
+﻿process.watchFile(wol.js, function(curr, prev) {
+                   ^
+
+ReferenceError: wol is not defined
+    at Object.<anonymous> (E:\DATE\TelegramBot\wol.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+E:\DATE\TelegramBot\wol.js:1
+﻿process.watchFile(wol.js, function(curr, prev) {
+                   ^
+
+ReferenceError: wol is not defined
+    at Object.<anonymous> (E:\DATE\TelegramBot\wol.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:390:28)
+    at process.exit (node:internal/process/per_thread:184:15)
+    at monitor (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:390:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+E:\DATE\TelegramBot\wol.js:1
+﻿process.watchFile(wol.js, function(curr, prev) {
+                   ^
+
+ReferenceError: wol is not defined
+    at Object.<anonymous> (E:\DATE\TelegramBot\wol.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+E:\DATE\TelegramBot\wol.js:1
+﻿process.watchFile(wol.js, function(curr, prev) {
+                   ^
+
+ReferenceError: wol is not defined
+    at Object.<anonymous> (E:\DATE\TelegramBot\wol.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+E:\DATE\TelegramBot\wol.js:1
+﻿process.watchFile(wol.js, function(curr, prev) {
+                   ^
+
+ReferenceError: wol is not defined
+    at Object.<anonymous> (E:\DATE\TelegramBot\wol.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:390:28)
+    at process.exit (node:internal/process/per_thread:184:15)
+    at monitor (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:390:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+Tue, 11 Jan 2022 11:29:01 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 13:47:39 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Tue, 11 Jan 2022 14:30:22 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}
+Wed, 12 Jan 2022 07:25:07 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}
+Wed, 12 Jan 2022 07:25:48 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Wed, 12 Jan 2022 07:27:15 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Wed, 12 Jan 2022 07:28:41 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Wed, 12 Jan 2022 07:30:43 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Wed, 12 Jan 2022 07:34:26 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Wed, 12 Jan 2022 07:50:48 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+error: [polling_error] {}
+Wed, 12 Jan 2022 11:08:20 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Wed, 12 Jan 2022 11:09:41 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Wed, 12 Jan 2022 11:10:17 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Wed, 12 Jan 2022 11:11:53 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+E:\DATE\TelegramBot\wol.js:30
+		const result = await runCommand(command);
+		               ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+E:\DATE\TelegramBot\wol.js:30
+		const result = await runCommand(command);
+		               ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+E:\DATE\TelegramBot\wol.js:30
+		const result = await runCommand(command);
+		               ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:390:28)
+    at process.exit (node:internal/process/per_thread:184:15)
+    at monitor (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:390:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+E:\DATE\TelegramBot\wol.js:30
+		const result = await runCommand(command);
+		               ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+E:\DATE\TelegramBot\wol.js:30
+		const result = await runCommand(command);
+		               ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+E:\DATE\TelegramBot\wol.js:30
+		const result = await runCommand(command);
+		               ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:390:28)
+    at process.exit (node:internal/process/per_thread:184:15)
+    at monitor (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:390:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+E:\DATE\TelegramBot\wol.js:30
+		const result = await runCommand(command);
+		               ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+E:\DATE\TelegramBot\wol.js:30
+		const result = await runCommand(command);
+		               ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+E:\DATE\TelegramBot\wol.js:30
+		const result = await runCommand(command);
+		               ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:390:28)
+    at process.exit (node:internal/process/per_thread:184:15)
+    at monitor (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:390:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+Wed, 12 Jan 2022 11:19:13 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+E:\DATE\TelegramBot\pc8off.js:16
+		bot.sendMessage(chatId, "_result", result);
+		^
+
+ReferenceError: bot is not defined
+    at Object.pcoff (E:\DATE\TelegramBot\pc8off.js:16:3)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Wed, 12 Jan 2022 11:19:44 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Wed, 12 Jan 2022 11:21:12 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Wed, 12 Jan 2022 11:22:59 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Wed, 12 Jan 2022 11:33:22 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+error: [polling_error] {}
+Wed, 12 Jan 2022 11:38:16 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Wed, 12 Jan 2022 11:47:52 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+error: [polling_error] {}
+Wed, 12 Jan 2022 11:50:28 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+Wed, 12 Jan 2022 12:24:28 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+error: [polling_error] {}
+error: [polling_error] {}
+error: [polling_error] {}
+error: [polling_error] {}
+Fri, 14 Jan 2022 14:53:31 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at node:internal\modules\cjs\loader:1101:14
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: read ECONNRESET"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}

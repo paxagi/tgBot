@@ -1,0 +1,492 @@
+2022-01-11 13:42:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 13:42:24 - Started 8288
+2022-01-11 13:54:04 - Stopping telegrambot.exe
+2022-01-11 13:54:04 - ProcessKill 8288
+2022-01-11 13:54:04 - Found child process: 9864 Name: conhost.exe
+2022-01-11 13:54:04 - Found child process: 9508 Name: node.exe
+2022-01-11 13:54:04 - Stopping process 9864
+2022-01-11 13:54:04 - Send SIGINT 9864
+2022-01-11 13:54:04 - SIGINT to 9864 failed - Killing as fallback
+2022-01-11 13:54:04 - Stopping process 9508
+2022-01-11 13:54:04 - Send SIGINT 9508
+2022-01-11 13:54:04 - SIGINT to 9508 failed - Killing as fallback
+2022-01-11 13:54:04 - Stopping process 8288
+2022-01-11 13:54:04 - Send SIGINT 8288
+2022-01-11 13:54:04 - SIGINT to 8288 failed - Killing as fallback
+2022-01-11 13:54:04 - Finished telegrambot.exe
+2022-01-11 13:54:20 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 13:54:20 - Started 3484
+2022-01-11 14:09:56 - Stopping telegrambot.exe
+2022-01-11 14:09:56 - ProcessKill 3484
+2022-01-11 14:09:56 - Found child process: 8452 Name: conhost.exe
+2022-01-11 14:09:56 - Found child process: 1544 Name: node.exe
+2022-01-11 14:09:56 - Stopping process 8452
+2022-01-11 14:09:56 - Send SIGINT 8452
+2022-01-11 14:09:56 - SIGINT to 8452 failed - Killing as fallback
+2022-01-11 14:09:56 - Stopping process 1544
+2022-01-11 14:09:56 - Send SIGINT 1544
+2022-01-11 14:09:56 - SIGINT to 1544 failed - Killing as fallback
+2022-01-11 14:09:56 - Stopping process 3484
+2022-01-11 14:09:56 - Send SIGINT 3484
+2022-01-11 14:09:56 - SIGINT to 3484 failed - Killing as fallback
+2022-01-11 14:09:56 - Finished telegrambot.exe
+2022-01-11 14:09:57 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:09:57 - Started 6772
+2022-01-11 14:11:23 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:11:23 - Started 8572
+2022-01-11 14:12:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:12:29 - Started 11844
+2022-01-11 14:13:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:13:22 - Started 8680
+2022-01-11 14:13:36 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:13:36 - Started 5420
+2022-01-11 14:13:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:13:52 - Started 2196
+2022-01-11 14:14:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:14:29 - Started 5132
+2022-01-11 14:14:42 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:14:42 - Started 2784
+2022-01-11 14:14:58 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:14:58 - Started 11536
+2022-01-11 14:15:02 - Stopping telegrambot.exe
+2022-01-11 14:15:02 - ProcessKill 11536
+2022-01-11 14:15:02 - Found child process: 5524 Name: conhost.exe
+2022-01-11 14:15:02 - Found child process: 10448 Name: node.exe
+2022-01-11 14:15:02 - Stopping process 5524
+2022-01-11 14:15:02 - Send SIGINT 5524
+2022-01-11 14:15:02 - SIGINT to 5524 failed - Killing as fallback
+2022-01-11 14:15:02 - Stopping process 10448
+2022-01-11 14:15:02 - Send SIGINT 10448
+2022-01-11 14:15:02 - SIGINT to 10448 failed - Killing as fallback
+2022-01-11 14:15:02 - Stopping process 11536
+2022-01-11 14:15:02 - Send SIGINT 11536
+2022-01-11 14:15:02 - SIGINT to 11536 failed - Killing as fallback
+2022-01-11 14:15:02 - Finished telegrambot.exe
+2022-01-11 14:15:03 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:15:03 - Started 1540
+2022-01-11 14:17:40 - Stopping telegrambot.exe
+2022-01-11 14:17:40 - ProcessKill 1540
+2022-01-11 14:17:40 - Found child process: 3588 Name: conhost.exe
+2022-01-11 14:17:40 - Found child process: 10976 Name: node.exe
+2022-01-11 14:17:40 - Stopping process 3588
+2022-01-11 14:17:40 - Send SIGINT 3588
+2022-01-11 14:17:40 - SIGINT to 3588 failed - Killing as fallback
+2022-01-11 14:17:40 - Stopping process 10976
+2022-01-11 14:17:40 - Send SIGINT 10976
+2022-01-11 14:17:40 - SIGINT to 10976 failed - Killing as fallback
+2022-01-11 14:17:40 - Stopping process 1540
+2022-01-11 14:17:40 - Send SIGINT 1540
+2022-01-11 14:17:40 - SIGINT to 1540 failed - Killing as fallback
+2022-01-11 14:17:40 - Finished telegrambot.exe
+2022-01-11 14:17:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:17:41 - Started 11244
+2022-01-11 14:19:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:19:52 - Started 10736
+2022-01-11 14:25:38 - Stopping telegrambot.exe
+2022-01-11 14:25:38 - ProcessKill 10736
+2022-01-11 14:25:38 - Found child process: 11472 Name: conhost.exe
+2022-01-11 14:25:38 - Found child process: 5836 Name: node.exe
+2022-01-11 14:25:38 - Stopping process 11472
+2022-01-11 14:25:38 - Send SIGINT 11472
+2022-01-11 14:25:38 - SIGINT to 11472 failed - Killing as fallback
+2022-01-11 14:25:38 - Stopping process 5836
+2022-01-11 14:25:38 - Send SIGINT 5836
+2022-01-11 14:25:38 - SIGINT to 5836 failed - Killing as fallback
+2022-01-11 14:25:38 - Stopping process 10736
+2022-01-11 14:25:38 - Send SIGINT 10736
+2022-01-11 14:25:38 - SIGINT to 10736 failed - Killing as fallback
+2022-01-11 14:25:38 - Finished telegrambot.exe
+2022-01-11 14:25:39 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:25:39 - Started 7792
+2022-01-11 14:26:17 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:26:17 - Started 12024
+2022-01-11 14:26:39 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:26:39 - Started 6964
+2022-01-11 14:27:56 - Stopping telegrambot.exe
+2022-01-11 14:27:56 - ProcessKill 6964
+2022-01-11 14:27:56 - Found child process: 7652 Name: conhost.exe
+2022-01-11 14:27:56 - Found child process: 5036 Name: node.exe
+2022-01-11 14:27:56 - Stopping process 7652
+2022-01-11 14:27:56 - Send SIGINT 7652
+2022-01-11 14:27:56 - SIGINT to 7652 failed - Killing as fallback
+2022-01-11 14:27:57 - Stopping process 5036
+2022-01-11 14:27:57 - Send SIGINT 5036
+2022-01-11 14:27:57 - SIGINT to 5036 failed - Killing as fallback
+2022-01-11 14:27:57 - Stopping process 6964
+2022-01-11 14:27:57 - Send SIGINT 6964
+2022-01-11 14:27:57 - SIGINT to 6964 failed - Killing as fallback
+2022-01-11 14:27:57 - Finished telegrambot.exe
+2022-01-11 14:27:58 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:27:58 - Started 3340
+2022-01-11 14:28:07 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:28:07 - Started 8496
+2022-01-11 14:28:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:28:22 - Started 11932
+2022-01-11 14:29:01 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 14:29:01 - Started 11364
+2022-01-11 16:47:37 - Stopping telegrambot.exe
+2022-01-11 16:47:37 - ProcessKill 11364
+2022-01-11 16:47:37 - Found child process: 10316 Name: conhost.exe
+2022-01-11 16:47:37 - Found child process: 9656 Name: node.exe
+2022-01-11 16:47:38 - Stopping process 10316
+2022-01-11 16:47:38 - Send SIGINT 10316
+2022-01-11 16:47:38 - SIGINT to 10316 failed - Killing as fallback
+2022-01-11 16:47:38 - Stopping process 9656
+2022-01-11 16:47:38 - Send SIGINT 9656
+2022-01-11 16:47:38 - SIGINT to 9656 failed - Killing as fallback
+2022-01-11 16:47:38 - Stopping process 11364
+2022-01-11 16:47:38 - Send SIGINT 11364
+2022-01-11 16:47:38 - SIGINT to 11364 failed - Killing as fallback
+2022-01-11 16:47:38 - Finished telegrambot.exe
+2022-01-11 16:47:39 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 16:47:39 - Started 9612
+2022-01-11 17:30:20 - Stopping telegrambot.exe
+2022-01-11 17:30:20 - ProcessKill 9612
+2022-01-11 17:30:20 - Found child process: 10816 Name: conhost.exe
+2022-01-11 17:30:20 - Found child process: 8820 Name: node.exe
+2022-01-11 17:30:20 - Stopping process 10816
+2022-01-11 17:30:20 - Send SIGINT 10816
+2022-01-11 17:30:20 - SIGINT to 10816 failed - Killing as fallback
+2022-01-11 17:30:20 - Stopping process 8820
+2022-01-11 17:30:20 - Send SIGINT 8820
+2022-01-11 17:30:20 - SIGINT to 8820 failed - Killing as fallback
+2022-01-11 17:30:20 - Stopping process 9612
+2022-01-11 17:30:20 - Send SIGINT 9612
+2022-01-11 17:30:20 - SIGINT to 9612 failed - Killing as fallback
+2022-01-11 17:30:20 - Finished telegrambot.exe
+2022-01-11 17:30:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-11 17:30:22 - Started 7364
+2022-01-12 10:24:02 - Stopping telegrambot.exe
+2022-01-12 10:24:02 - ProcessKill 7364
+2022-01-12 10:24:02 - Found child process: 5980 Name: conhost.exe
+2022-01-12 10:24:02 - Found child process: 11916 Name: node.exe
+2022-01-12 10:24:02 - Found child process: 11980 Name: csrss.exe
+2022-01-12 10:24:02 - Found child process: 7088 Name: winlogon.exe
+2022-01-12 10:24:02 - Stopping process 11980
+2022-01-12 10:24:02 - Send SIGINT 11980
+2022-01-12 10:24:02 - SIGINT to 11980 failed - Killing as fallback
+2022-01-12 10:24:02 - Stop exception
+Message:Отказано в доступе
+Stacktrace:   в System.Diagnostics.ProcessManager.OpenProcess(Int32 processId, Int32 access, Boolean throwIfExited)
+   в System.Diagnostics.Process.GetProcessHandle(Int32 access, Boolean throwIfExited)
+   в System.Diagnostics.Process.Kill()
+   в winsw.WrapperService.StopProcess(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnStop()
+2022-01-12 10:24:04 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 10:24:04 - Started 12224
+2022-01-12 10:25:07 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 10:25:07 - Started 10840
+2022-01-12 10:25:40 - Stopping telegrambot.exe
+2022-01-12 10:25:40 - ProcessKill 10840
+2022-01-12 10:25:40 - Found child process: 11472 Name: conhost.exe
+2022-01-12 10:25:40 - Found child process: 1392 Name: node.exe
+2022-01-12 10:25:40 - Stopping process 11472
+2022-01-12 10:25:40 - Send SIGINT 11472
+2022-01-12 10:25:40 - SIGINT to 11472 failed - Killing as fallback
+2022-01-12 10:25:40 - Stopping process 1392
+2022-01-12 10:25:40 - Send SIGINT 1392
+2022-01-12 10:25:40 - SIGINT to 1392 failed - Killing as fallback
+2022-01-12 10:25:40 - Stopping process 10840
+2022-01-12 10:25:40 - Send SIGINT 10840
+2022-01-12 10:25:40 - SIGINT to 10840 failed - Killing as fallback
+2022-01-12 10:25:40 - Finished telegrambot.exe
+2022-01-12 10:25:47 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 10:25:47 - Started 7500
+2022-01-12 10:27:11 - Stopping telegrambot.exe
+2022-01-12 10:27:11 - ProcessKill 7500
+2022-01-12 10:27:11 - Found child process: 9832 Name: conhost.exe
+2022-01-12 10:27:11 - Found child process: 9508 Name: node.exe
+2022-01-12 10:27:11 - Stopping process 9832
+2022-01-12 10:27:11 - Send SIGINT 9832
+2022-01-12 10:27:11 - SIGINT to 9832 failed - Killing as fallback
+2022-01-12 10:27:11 - Stopping process 9508
+2022-01-12 10:27:11 - Send SIGINT 9508
+2022-01-12 10:27:11 - SIGINT to 9508 failed - Killing as fallback
+2022-01-12 10:27:11 - Stopping process 7500
+2022-01-12 10:27:11 - Send SIGINT 7500
+2022-01-12 10:27:11 - SIGINT to 7500 failed - Killing as fallback
+2022-01-12 10:27:11 - Finished telegrambot.exe
+2022-01-12 10:27:14 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 10:27:15 - Started 5356
+2022-01-12 10:28:37 - Stopping telegrambot.exe
+2022-01-12 10:28:37 - ProcessKill 5356
+2022-01-12 10:28:37 - Found child process: 4836 Name: conhost.exe
+2022-01-12 10:28:37 - Found child process: 7808 Name: node.exe
+2022-01-12 10:28:37 - Stopping process 4836
+2022-01-12 10:28:37 - Send SIGINT 4836
+2022-01-12 10:28:37 - SIGINT to 4836 failed - Killing as fallback
+2022-01-12 10:28:37 - Stopping process 7808
+2022-01-12 10:28:37 - Send SIGINT 7808
+2022-01-12 10:28:37 - SIGINT to 7808 failed - Killing as fallback
+2022-01-12 10:28:37 - Stopping process 5356
+2022-01-12 10:28:37 - Send SIGINT 5356
+2022-01-12 10:28:37 - SIGINT to 5356 failed - Killing as fallback
+2022-01-12 10:28:37 - Finished telegrambot.exe
+2022-01-12 10:28:40 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 10:28:40 - Started 412
+2022-01-12 10:30:38 - Stopping telegrambot.exe
+2022-01-12 10:30:38 - ProcessKill 412
+2022-01-12 10:30:38 - Found child process: 8528 Name: conhost.exe
+2022-01-12 10:30:38 - Found child process: 3120 Name: node.exe
+2022-01-12 10:30:38 - Stopping process 8528
+2022-01-12 10:30:38 - Send SIGINT 8528
+2022-01-12 10:30:38 - SIGINT to 8528 failed - Killing as fallback
+2022-01-12 10:30:38 - Stopping process 3120
+2022-01-12 10:30:38 - Send SIGINT 3120
+2022-01-12 10:30:38 - SIGINT to 3120 failed - Killing as fallback
+2022-01-12 10:30:38 - Stopping process 412
+2022-01-12 10:30:38 - Send SIGINT 412
+2022-01-12 10:30:38 - SIGINT to 412 failed - Killing as fallback
+2022-01-12 10:30:38 - Finished telegrambot.exe
+2022-01-12 10:30:42 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 10:30:42 - Started 3828
+2022-01-12 10:34:23 - Stopping telegrambot.exe
+2022-01-12 10:34:23 - ProcessKill 3828
+2022-01-12 10:34:23 - Found child process: 1552 Name: conhost.exe
+2022-01-12 10:34:23 - Found child process: 4348 Name: node.exe
+2022-01-12 10:34:23 - Stopping process 1552
+2022-01-12 10:34:23 - Send SIGINT 1552
+2022-01-12 10:34:23 - SIGINT to 1552 failed - Killing as fallback
+2022-01-12 10:34:24 - Stopping process 4348
+2022-01-12 10:34:24 - Send SIGINT 4348
+2022-01-12 10:34:24 - SIGINT to 4348 failed - Killing as fallback
+2022-01-12 10:34:24 - Stopping process 3828
+2022-01-12 10:34:24 - Send SIGINT 3828
+2022-01-12 10:34:24 - SIGINT to 3828 failed - Killing as fallback
+2022-01-12 10:34:24 - Finished telegrambot.exe
+2022-01-12 10:34:26 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 10:34:26 - Started 1392
+2022-01-12 10:50:44 - Stopping telegrambot.exe
+2022-01-12 10:50:44 - ProcessKill 1392
+2022-01-12 10:50:44 - Found child process: 10220 Name: conhost.exe
+2022-01-12 10:50:44 - Found child process: 1836 Name: node.exe
+2022-01-12 10:50:44 - Stopping process 10220
+2022-01-12 10:50:44 - Send SIGINT 10220
+2022-01-12 10:50:44 - SIGINT to 10220 failed - Killing as fallback
+2022-01-12 10:50:44 - Stopping process 1836
+2022-01-12 10:50:44 - Send SIGINT 1836
+2022-01-12 10:50:44 - SIGINT to 1836 failed - Killing as fallback
+2022-01-12 10:50:44 - Stopping process 1392
+2022-01-12 10:50:44 - Send SIGINT 1392
+2022-01-12 10:50:44 - SIGINT to 1392 failed - Killing as fallback
+2022-01-12 10:50:44 - Finished telegrambot.exe
+2022-01-12 10:50:47 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 10:50:47 - Started 8072
+2022-01-12 14:08:15 - Stopping telegrambot.exe
+2022-01-12 14:08:15 - ProcessKill 8072
+2022-01-12 14:08:15 - Found child process: 4596 Name: conhost.exe
+2022-01-12 14:08:15 - Found child process: 11148 Name: node.exe
+2022-01-12 14:08:15 - Stopping process 4596
+2022-01-12 14:08:15 - Send SIGINT 4596
+2022-01-12 14:08:15 - SIGINT to 4596 failed - Killing as fallback
+2022-01-12 14:08:15 - Stopping process 11148
+2022-01-12 14:08:15 - Send SIGINT 11148
+2022-01-12 14:08:15 - SIGINT to 11148 failed - Killing as fallback
+2022-01-12 14:08:15 - Stopping process 8072
+2022-01-12 14:08:15 - Send SIGINT 8072
+2022-01-12 14:08:15 - SIGINT to 8072 failed - Killing as fallback
+2022-01-12 14:08:15 - Finished telegrambot.exe
+2022-01-12 14:08:19 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 14:08:19 - Started 10312
+2022-01-12 14:09:37 - Stopping telegrambot.exe
+2022-01-12 14:09:37 - ProcessKill 10312
+2022-01-12 14:09:37 - Found child process: 2184 Name: conhost.exe
+2022-01-12 14:09:37 - Found child process: 9976 Name: node.exe
+2022-01-12 14:09:37 - Stopping process 2184
+2022-01-12 14:09:37 - Send SIGINT 2184
+2022-01-12 14:09:37 - SIGINT to 2184 failed - Killing as fallback
+2022-01-12 14:09:37 - Stopping process 9976
+2022-01-12 14:09:37 - Send SIGINT 9976
+2022-01-12 14:09:37 - SIGINT to 9976 failed - Killing as fallback
+2022-01-12 14:09:37 - Stopping process 10312
+2022-01-12 14:09:37 - Send SIGINT 10312
+2022-01-12 14:09:37 - SIGINT to 10312 failed - Killing as fallback
+2022-01-12 14:09:37 - Finished telegrambot.exe
+2022-01-12 14:09:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 14:09:41 - Started 8444
+2022-01-12 14:10:13 - Stopping telegrambot.exe
+2022-01-12 14:10:13 - ProcessKill 8444
+2022-01-12 14:10:13 - Found child process: 11104 Name: conhost.exe
+2022-01-12 14:10:13 - Found child process: 5224 Name: node.exe
+2022-01-12 14:10:13 - Stopping process 11104
+2022-01-12 14:10:13 - Send SIGINT 11104
+2022-01-12 14:10:13 - SIGINT to 11104 failed - Killing as fallback
+2022-01-12 14:10:13 - Stopping process 5224
+2022-01-12 14:10:13 - Send SIGINT 5224
+2022-01-12 14:10:13 - SIGINT to 5224 failed - Killing as fallback
+2022-01-12 14:10:13 - Stopping process 8444
+2022-01-12 14:10:13 - Send SIGINT 8444
+2022-01-12 14:10:13 - SIGINT to 8444 failed - Killing as fallback
+2022-01-12 14:10:13 - Finished telegrambot.exe
+2022-01-12 14:10:16 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 14:10:16 - Started 9332
+2022-01-12 14:11:47 - Stopping telegrambot.exe
+2022-01-12 14:11:47 - ProcessKill 9332
+2022-01-12 14:11:47 - Found child process: 10740 Name: conhost.exe
+2022-01-12 14:11:47 - Found child process: 1448 Name: node.exe
+2022-01-12 14:11:47 - Stopping process 10740
+2022-01-12 14:11:47 - Send SIGINT 10740
+2022-01-12 14:11:47 - SIGINT to 10740 failed - Killing as fallback
+2022-01-12 14:11:48 - Stopping process 1448
+2022-01-12 14:11:48 - Send SIGINT 1448
+2022-01-12 14:11:48 - SIGINT to 1448 failed - Killing as fallback
+2022-01-12 14:11:48 - Stopping process 9332
+2022-01-12 14:11:48 - Send SIGINT 9332
+2022-01-12 14:11:48 - SIGINT to 9332 failed - Killing as fallback
+2022-01-12 14:11:48 - Finished telegrambot.exe
+2022-01-12 14:11:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 14:11:52 - Started 8236
+2022-01-12 14:16:14 - Stopping telegrambot.exe
+2022-01-12 14:16:14 - ProcessKill 8236
+2022-01-12 14:16:14 - Found child process: 1644 Name: conhost.exe
+2022-01-12 14:16:14 - Found child process: 9860 Name: node.exe
+2022-01-12 14:16:14 - Stopping process 1644
+2022-01-12 14:16:14 - Send SIGINT 1644
+2022-01-12 14:16:14 - SIGINT to 1644 failed - Killing as fallback
+2022-01-12 14:16:14 - Stopping process 9860
+2022-01-12 14:16:14 - Send SIGINT 9860
+2022-01-12 14:16:14 - SIGINT to 9860 failed - Killing as fallback
+2022-01-12 14:16:14 - Stopping process 8236
+2022-01-12 14:16:14 - Send SIGINT 8236
+2022-01-12 14:16:14 - SIGINT to 8236 failed - Killing as fallback
+2022-01-12 14:16:14 - Finished telegrambot.exe
+2022-01-12 14:16:17 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 14:16:17 - Started 8696
+2022-01-12 14:17:21 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 14:17:21 - Started 9904
+2022-01-12 14:18:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 14:18:24 - Started 4012
+2022-01-12 14:19:12 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 14:19:12 - Started 8668
+2022-01-12 14:21:08 - Stopping telegrambot.exe
+2022-01-12 14:21:08 - ProcessKill 8668
+2022-01-12 14:21:08 - Found child process: 5044 Name: conhost.exe
+2022-01-12 14:21:08 - Found child process: 8388 Name: node.exe
+2022-01-12 14:21:08 - Stopping process 5044
+2022-01-12 14:21:08 - Send SIGINT 5044
+2022-01-12 14:21:08 - SIGINT to 5044 failed - Killing as fallback
+2022-01-12 14:21:08 - Stopping process 8388
+2022-01-12 14:21:08 - Send SIGINT 8388
+2022-01-12 14:21:08 - SIGINT to 8388 failed - Killing as fallback
+2022-01-12 14:21:08 - Stopping process 8668
+2022-01-12 14:21:08 - Send SIGINT 8668
+2022-01-12 14:21:08 - SIGINT to 8668 failed - Killing as fallback
+2022-01-12 14:21:08 - Finished telegrambot.exe
+2022-01-12 14:21:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 14:21:11 - Started 11728
+2022-01-12 14:22:55 - Stopping telegrambot.exe
+2022-01-12 14:22:55 - ProcessKill 11728
+2022-01-12 14:22:55 - Found child process: 10868 Name: conhost.exe
+2022-01-12 14:22:55 - Found child process: 6392 Name: node.exe
+2022-01-12 14:22:55 - Stopping process 10868
+2022-01-12 14:22:55 - Send SIGINT 10868
+2022-01-12 14:22:55 - SIGINT to 10868 failed - Killing as fallback
+2022-01-12 14:22:55 - Stopping process 6392
+2022-01-12 14:22:55 - Send SIGINT 6392
+2022-01-12 14:22:55 - SIGINT to 6392 failed - Killing as fallback
+2022-01-12 14:22:55 - Stopping process 11728
+2022-01-12 14:22:55 - Send SIGINT 11728
+2022-01-12 14:22:55 - SIGINT to 11728 failed - Killing as fallback
+2022-01-12 14:22:55 - Finished telegrambot.exe
+2022-01-12 14:22:58 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 14:22:58 - Started 8932
+2022-01-12 14:33:18 - Stopping telegrambot.exe
+2022-01-12 14:33:18 - ProcessKill 8932
+2022-01-12 14:33:18 - Found child process: 1448 Name: conhost.exe
+2022-01-12 14:33:18 - Found child process: 11524 Name: node.exe
+2022-01-12 14:33:18 - Stopping process 1448
+2022-01-12 14:33:18 - Send SIGINT 1448
+2022-01-12 14:33:18 - SIGINT to 1448 failed - Killing as fallback
+2022-01-12 14:33:18 - Stopping process 11524
+2022-01-12 14:33:18 - Send SIGINT 11524
+2022-01-12 14:33:18 - SIGINT to 11524 failed - Killing as fallback
+2022-01-12 14:33:18 - Stopping process 8932
+2022-01-12 14:33:18 - Send SIGINT 8932
+2022-01-12 14:33:18 - SIGINT to 8932 failed - Killing as fallback
+2022-01-12 14:33:18 - Finished telegrambot.exe
+2022-01-12 14:33:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 14:33:22 - Started 8668
+2022-01-12 14:38:11 - Stopping telegrambot.exe
+2022-01-12 14:38:11 - ProcessKill 8668
+2022-01-12 14:38:12 - Found child process: 12044 Name: conhost.exe
+2022-01-12 14:38:12 - Found child process: 8788 Name: node.exe
+2022-01-12 14:38:12 - Stopping process 12044
+2022-01-12 14:38:12 - Send SIGINT 12044
+2022-01-12 14:38:12 - SIGINT to 12044 failed - Killing as fallback
+2022-01-12 14:38:12 - Stopping process 8788
+2022-01-12 14:38:12 - Send SIGINT 8788
+2022-01-12 14:38:12 - SIGINT to 8788 failed - Killing as fallback
+2022-01-12 14:38:12 - Stopping process 8668
+2022-01-12 14:38:12 - Send SIGINT 8668
+2022-01-12 14:38:12 - SIGINT to 8668 failed - Killing as fallback
+2022-01-12 14:38:12 - Finished telegrambot.exe
+2022-01-12 14:38:15 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 14:38:15 - Started 11848
+2022-01-12 14:47:47 - Stopping telegrambot.exe
+2022-01-12 14:47:47 - ProcessKill 11848
+2022-01-12 14:47:48 - Found child process: 8144 Name: conhost.exe
+2022-01-12 14:47:48 - Found child process: 10572 Name: node.exe
+2022-01-12 14:47:48 - Stopping process 8144
+2022-01-12 14:47:48 - Send SIGINT 8144
+2022-01-12 14:47:48 - SIGINT to 8144 failed - Killing as fallback
+2022-01-12 14:47:48 - Stopping process 10572
+2022-01-12 14:47:48 - Send SIGINT 10572
+2022-01-12 14:47:48 - SIGINT to 10572 failed - Killing as fallback
+2022-01-12 14:47:48 - Stopping process 11848
+2022-01-12 14:47:48 - Send SIGINT 11848
+2022-01-12 14:47:48 - SIGINT to 11848 failed - Killing as fallback
+2022-01-12 14:47:48 - Finished telegrambot.exe
+2022-01-12 14:47:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 14:47:52 - Started 3584
+2022-01-12 14:50:23 - Stopping telegrambot.exe
+2022-01-12 14:50:23 - ProcessKill 3584
+2022-01-12 14:50:23 - Found child process: 6336 Name: conhost.exe
+2022-01-12 14:50:23 - Found child process: 9932 Name: node.exe
+2022-01-12 14:50:23 - Stopping process 6336
+2022-01-12 14:50:23 - Send SIGINT 6336
+2022-01-12 14:50:23 - SIGINT to 6336 failed - Killing as fallback
+2022-01-12 14:50:23 - Stopping process 9932
+2022-01-12 14:50:23 - Send SIGINT 9932
+2022-01-12 14:50:23 - SIGINT to 9932 failed - Killing as fallback
+2022-01-12 14:50:23 - Stopping process 3584
+2022-01-12 14:50:23 - Send SIGINT 3584
+2022-01-12 14:50:23 - SIGINT to 3584 failed - Killing as fallback
+2022-01-12 14:50:23 - Finished telegrambot.exe
+2022-01-12 14:50:28 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 14:50:28 - Started 11200
+2022-01-12 15:24:22 - Stopping telegrambot.exe
+2022-01-12 15:24:22 - ProcessKill 11200
+2022-01-12 15:24:22 - Found child process: 7008 Name: conhost.exe
+2022-01-12 15:24:22 - Found child process: 10388 Name: node.exe
+2022-01-12 15:24:22 - Stopping process 7008
+2022-01-12 15:24:22 - Send SIGINT 7008
+2022-01-12 15:24:22 - SIGINT to 7008 failed - Killing as fallback
+2022-01-12 15:24:22 - Stopping process 10388
+2022-01-12 15:24:22 - Send SIGINT 10388
+2022-01-12 15:24:22 - SIGINT to 10388 failed - Killing as fallback
+2022-01-12 15:24:22 - Stopping process 11200
+2022-01-12 15:24:22 - Send SIGINT 11200
+2022-01-12 15:24:22 - SIGINT to 11200 failed - Killing as fallback
+2022-01-12 15:24:22 - Finished telegrambot.exe
+2022-01-12 15:24:27 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 15:24:27 - Started 4864
+2022-01-14 17:53:27 - Stopping telegrambot.exe
+2022-01-14 17:53:27 - ProcessKill 4864
+2022-01-14 17:53:27 - Found child process: 8544 Name: conhost.exe
+2022-01-14 17:53:27 - Found child process: 1804 Name: node.exe
+2022-01-14 17:53:27 - Stopping process 8544
+2022-01-14 17:53:27 - Send SIGINT 8544
+2022-01-14 17:53:27 - SIGINT to 8544 failed - Killing as fallback
+2022-01-14 17:53:27 - Stopping process 1804
+2022-01-14 17:53:27 - Send SIGINT 1804
+2022-01-14 17:53:27 - SIGINT to 1804 failed - Killing as fallback
+2022-01-14 17:53:27 - Stopping process 4864
+2022-01-14 17:53:27 - Send SIGINT 4864
+2022-01-14 17:53:27 - SIGINT to 4864 failed - Killing as fallback
+2022-01-14 17:53:27 - Finished telegrambot.exe
+2022-01-14 17:53:30 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\DATE\TelegramBot\wol.js --log "TelegramBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-14 17:53:30 - Started 1096

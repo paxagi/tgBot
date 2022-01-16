@@ -1,0 +1,25 @@
+<service>
+	<id>telegrambot.exe</id>
+	<name>TelegramBot</name>
+	<description>Это служба запуска скрипта бота телеграм создана администратором Mamedov-rn</description>
+	<executable>C:\Program Files\nodejs\node.exe</executable>
+	<logmode>rotate</logmode>
+	<argument>--harmony</argument>
+	<argument>C:\Users\mamedov-rn\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>E:\DATE\TelegramBot\wol.js</argument>
+	<argument>--log</argument>
+	<argument>TelegramBot wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<stoptimeout>30sec</stoptimeout>
+	<workingdirectory>E:\DATE\TelegramBot</workingdirectory>
+</service>
