@@ -29,10 +29,10 @@ bot.on('message', (msg) => {
   const tgUsersCommandsTree = {
     'бот': {
       'включи': {
-        'комп': num => {
-          if (MACs[mun]) {
+        'комп': numb => {
+          if (MACs[numb]) {
             bot.sendMessage(chatId, "Минутку, включаю...")
-            wol.wake(MACs[num])
+            wol.wake(MACs[numb])
           } else {
             bot.sendMessage(chatId, "ПК с таким номером нет")
           }
