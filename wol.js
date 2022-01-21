@@ -44,13 +44,15 @@ bot.on('message', (msg) => {
 
   function executeTextCommand(text) {
     const words = text.split(' ')
-    let parent = tgUsersCommandsTree
+    let remote = tgUsersCommandsTree
     for (const word of words) {
-      parent = parent[word]
-      if (typeof parent === 'function') parent = parent(word)
+      remote = remote[word]
+      if (remote) {
+        if (typeof remote === 'function') remote = remote(word)
+      }
     }
 
-    return result = parent
+    return result = remote
   }
 
   /** executing */
