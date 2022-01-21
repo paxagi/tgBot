@@ -3,6 +3,9 @@ const pcoff = require('./pcOff')
 const TelegramBot = require('node-telegram-bot-api');
 
 const token = '';
+const config = {
+  commandNotExitst: 'не понимаю команду...',
+}
 
 const bot = new TelegramBot(token, { polling: true });
 
@@ -48,11 +51,11 @@ bot.on('message', (msg) => {
     for (const word of words) {
       remote = remote[word]
       if (remote) {
-        if (typeof remote === 'function') remote = remote(word)
-      }
+        if (typeof remote === 'function') result = remote(word)
+      } else return config.commandNotExitst
     }
 
-    return result = remote
+    return result
   }
 
   /** executing */
