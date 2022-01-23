@@ -46,6 +46,10 @@ bot.on('message', (msg) => {
   const end = Symbol.for('end');
   const tgUsersCommandsTree = {
     'бот': {
+      [end]: () => {
+        bot.sendMessage(chatId,
+          `бот разработан компанией ООО мега-трейд, разработчик / редактор кода: Роман Мамедов, Арафаилов Артем`)
+      },
       'включи': {
         'комп': numb => {
           const mac = config.MACs[numb]
