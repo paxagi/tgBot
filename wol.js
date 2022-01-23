@@ -43,6 +43,7 @@ bot.on('message', (msg) => {
     bot.sendMessage(chatId, `${name}, ${msg}`, { parse_mode: 'HTML' })
   }
 
+  const end = Symbol.for('end');
   const tgUsersCommandsTree = {
     'бот': {
       'включи': {
@@ -74,24 +75,35 @@ bot.on('message', (msg) => {
   function executeTextCommand(text) {
     const words = text.split(' ')
     let remote = tgUsersCommandsTree
+    let isEnd
     for (const word of words) {
+      isEnd = false
       if (typeof remote === 'function') {
         remote(word)
         return
       }
-
       remote = remote[word]
 
       if (!remote) {
         sendReply(config.msg.commandNotExitst)
         return
       }
+      if (remote[end]) isEnd = true
     }
+    console.log(isEnd, remote);
+
+    if (isEnd) {
+      remote[end]()
+      return
+    }
+
     if (typeof remote === 'function') {
       remote()
-    } else {
-      sendReply(`<b> ${Object.keys(remote).toString()}</b>? `)
+      return
     }
+
+    sendReply(`<b> ${Object.keys(remote).toString()}</b>?`)
+    console.log(Object.keys(remote));
   }
 
   /** executing */
