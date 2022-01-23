@@ -23,6 +23,13 @@ bot.onText(/\/echo (.+)/, (msg, match) => {
 
 bot.on('message', (msg) => {
   const chatId = msg.chat.id
+  const name = msg.from.first_name
+
+  console.log(`${name}: ${msg.text}`);
+
+  const sendReply = (msg) => {
+    bot.sendMessage(chatId, `${name}, ${msg}`, { parse_mode: 'HTML' })
+  }
 
   const MACs = {
     1: '',
@@ -40,13 +47,14 @@ bot.on('message', (msg) => {
       'включи': {
         'комп': numb => {
           if (MACs[numb]) {
-            bot.sendMessage(chatId, "Минутку, включаю...")
+            sendReply('минутку, включаю...')
             wol.wake(MACs[numb])
           } else {
-            bot.sendMessage(chatId, "ПК с таким номером нет")
+            sendReply('ПК с таким номером нет')
           }
         },
       },
+      'выключи': () => sendReply('пока нечего')
     }
   }
 
