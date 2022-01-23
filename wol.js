@@ -11,6 +11,16 @@ const config = {
   bot: {
     nickname: 'бот',
   },
+  MACs: {
+    1: '',
+    2: '',
+    5: '',
+    7: '',
+    8: '',
+    9: '',
+    11: '',
+    15: '',
+  },
 }
 
 const bot = new TelegramBot(token, { polling: true });
@@ -25,37 +35,33 @@ bot.on('message', (msg) => {
   const chatId = msg.chat.id
   const name = msg.from.first_name
 
+  // std input
   console.log(`${name}: ${msg.text}`);
 
   const sendReply = (msg) => {
     bot.sendMessage(chatId, `${name}, ${msg}`, { parse_mode: 'HTML' })
   }
 
-  const MACs = {
-    1: '',
-    2: '',
-    5: '',
-    7: '',
-    8: '',
-    9: '',
-    11: '',
-    15: '',
-  }
-
   const tgUsersCommandsTree = {
     'бот': {
       'включи': {
         'комп': numb => {
-          if (MACs[numb]) {
+          const mac = config.MACs[numb]
+          if (mac) {
             sendReply('минутку, включаю...')
-            wol.wake(MACs[numb])
+            wol.wake(mac)
           } else {
             sendReply('ПК с таким номером нет')
           }
         },
       },
-      'выключи': () => sendReply('пока нечего')
-    }
+      'выключи': {
+        'комп': numb => {
+          pcoff(Number(numb))
+          sendReply('минутку, выключаю...')
+        },
+      },
+    },
   }
 
 
