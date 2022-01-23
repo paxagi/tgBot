@@ -84,10 +84,8 @@ bot.on('message', (msg) => {
 
   /** executing */
 
-  const text = msg.text
+  const text = msg.text.toLowerCase()
 
-  const res = executeTextCommand(text)
-
-  console.log(res)
+  if (text.indexOf(config.bot.nickname) === 0) executeTextCommand(text)
 
 })
