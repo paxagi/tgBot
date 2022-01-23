@@ -52,7 +52,18 @@ bot.on('message', (msg) => {
       },
       'включи': {
         'комп': numb => {
-          const mac = config.MACs[numb]
+          const n = Number(numb)
+          const mac = config.MACs[n]
+          const check = checkAccess(n, userid)
+          console.log(check);
+          if (!check.user) {
+            sendReply('мимокрокодил')
+            return
+          }
+          if (!check.access) {
+            sendReply('вам запрещено')
+            return
+          }
           if (mac) {
             sendReply('минутку, включаю...')
             wol.wake(mac)
@@ -63,10 +74,21 @@ bot.on('message', (msg) => {
       },
       'выключи': {
         'комп': numb => {
-          const mac = config.MACs[numb]
+          const n = Number(numb)
+          const mac = config.MACs[n]
+          const check = checkAccess(n, userid)
+          console.log(check);
+          if (!check.user) {
+            sendReply('мимокрокодил')
+            return
+          }
+          if (!check.access) {
+            sendReply('вам запрещено')
+            return
+          }
           if (mac) {
-            pcoff(Number(numb))
-            sendReply(`выключаю комп ${numb}`)
+            pcoff(n)
+            sendReply(`выключаю комп ${n}`)
           } else {
             sendReply('ПК с таким номером нет')
           }
