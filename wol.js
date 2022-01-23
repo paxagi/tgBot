@@ -120,7 +120,6 @@ bot.on('message', (msg) => {
       }
       if (remote[end]) isEnd = true
     }
-    console.log(isEnd, remote);
 
     if (isEnd) {
       remote[end]()

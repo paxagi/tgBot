@@ -6,23 +6,23 @@ const enginears = [5, 8, 15]
 const users = [
   {
     username: 'skirko-vn',
-    tgUserId: null,
+    tgUserId: 'здесь должен быть юзер айди',
     comps: 'all'
   },
   {
     username: 'rozevskaya-v?',
-    tgUserId: null,
+    tgUserId: 'здесь должен быть юзер айди',
     comps: manegers
   },
   {
     username: 'arafailov-as',
     tgUserId: 171549268,
-    comps: manegers,
+    comps: 11,
   },
   {
     username: 'mamedov-rn',
     tgUserId: 825873412,
-    comps: 7,
+    comps: 'all',
   },
 ]
 
