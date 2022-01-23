@@ -58,8 +58,13 @@ bot.on('message', (msg) => {
       },
       'выключи': {
         'комп': numb => {
-          pcoff(Number(numb))
-          sendReply('минутку, выключаю...')
+          const mac = config.MACs[numb]
+          if (mac) {
+            pcoff(Number(numb))
+            sendReply(`выключаю комп ${numb}`)
+          } else {
+            sendReply('ПК с таким номером нет')
+          }
         },
       },
     },
