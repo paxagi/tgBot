@@ -63,13 +63,23 @@ bot.on('message', (msg) => {
     const words = text.split(' ')
     let remote = tgUsersCommandsTree
     for (const word of words) {
-      remote = remote[word]
-      if (remote) {
-        if (typeof remote === 'function') result = remote(word)
-      } else return config.commandNotExitst
-    }
+      if (typeof remote === 'function') {
+        remote(word)
+        return
+      }
 
-    return result
+      remote = remote[word]
+
+      if (!remote) {
+        sendReply(config.msg.commandNotExitst)
+        return
+      }
+    }
+    if (typeof remote === 'function') {
+      remote()
+    } else {
+      sendReply(`<b> ${Object.keys(remote).toString()}</b>? `)
+    }
   }
 
   /** executing */
