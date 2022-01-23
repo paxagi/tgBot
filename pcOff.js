@@ -18,6 +18,6 @@ async function pcoff(compName) {
   const result = await runCommand(command)
 }
 module.exports = {
-  pc1off: pcoff
+  pcoff: pcoff
 }
 
