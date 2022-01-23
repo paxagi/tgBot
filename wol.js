@@ -1,5 +1,5 @@
-﻿// const wol = require('wake_on_lan');
-// const pcoff = require('./pcOff')
+﻿// const wol = require('wake_on_lan')
+// const pcoff = require('./pcOff').pcoff
 const wol = { wake: mac => console.log(mac) };
 const pcoff = (id) => console.log(id);
 const TelegramBot = require('node-telegram-bot-api');
