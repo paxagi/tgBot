@@ -5,7 +5,12 @@ const TelegramBot = require('node-telegram-bot-api');
 
 const token = '';
 const config = {
-  commandNotExitst: 'не понимаю команду...',
+  msg: {
+    commandNotExitst: 'не понимаю команду...',
+  },
+  bot: {
+    nickname: 'бот',
+  },
 }
 
 const bot = new TelegramBot(token, { polling: true });
