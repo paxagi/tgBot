@@ -37,7 +37,7 @@ bot.on('message', (msg) => {
   const name = msg.from.first_name
 
   // std input
-  console.log(`${name}: ${msg.text}`);
+  console.log(`${name}(${msg.from.id}): ${msg.text}`);
 
   const sendReply = (msg) => {
     bot.sendMessage(chatId, `${name}, ${msg}`, { parse_mode: 'HTML' })
