@@ -2,8 +2,9 @@
 const pcoff = require('./pcOff').pcoff
 const TelegramBot = require('node-telegram-bot-api')
 
-const token = ''
 const checkAccess = require('./db').checkAccess
+
+const { token } = require('./config')
 
 const config = {
   msg: {
