@@ -4,26 +4,7 @@ const TelegramBot = require('node-telegram-bot-api')
 
 const checkAccess = require('./db').checkAccess
 
-const { token } = require('./config')
-
-const config = {
-  msg: {
-    commandNotExitst: 'не понимаю команду...',
-  },
-  bot: {
-    nickname: 'бот',
-  },
-  MACs: {
-    1: '',
-    2: '',
-    5: '',
-    7: '',
-    8: '',
-    9: '',
-    11: '',
-    15: '',
-  },
-}
+const { token, bot: nodeBot, MACs } = require('./config')
 
 const bot = new TelegramBot(token, { polling: true });
 
@@ -56,7 +37,7 @@ bot.on('message', (msg) => {
       'включи': {
         'комп': numb => {
           const n = Number(numb)
-          const mac = config.MACs[n]
+          const mac = MACs[n]
           const check = checkAccess(n, userid)
           console.log(check);
           if (!check.user) {
@@ -78,7 +59,7 @@ bot.on('message', (msg) => {
       'выключи': {
         'комп': numb => {
           const n = Number(numb)
-          const mac = config.MACs[n]
+          const mac = MACs[n]
           const check = checkAccess(n, userid)
           console.log(check);
           if (!check.user) {
@@ -114,7 +95,7 @@ bot.on('message', (msg) => {
       remote = remote[word]
 
       if (!remote) {
-        sendReply(config.msg.commandNotExitst)
+        sendReply(nodeBot.messages.commandNotExist)
         return
       }
       if (remote[end]) isEnd = true
@@ -138,6 +119,6 @@ bot.on('message', (msg) => {
 
   const text = msg.text.toLowerCase()
 
-  if (text.indexOf(config.bot.nickname) === 0) executeTextCommand(text)
+  if (text.indexOf(nodeBot.nickname) === 0) executeTextCommand(text)
 
 })
