@@ -1,10 +1,18 @@
 ﻿const toCatch = fn => {
+<<<<<<< HEAD
   return function(...args) {
     try {
       return fn(...args)
     } catch (error) {
       console.table(error);
     }
+=======
+  const result
+  try {
+    result = fn()
+  } catch (error) {
+    console.table(error);
+>>>>>>> refs/remotes/origin/main
   }
 }
 
