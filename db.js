@@ -32,7 +32,7 @@ checkAccess = function (compNumb, userid) {
     return { user: true, access: true }
   }
   if (user) {
-    const position = [].concat(user.comps).indexOf(compNumb)
+    const position = [].concat(user.comps).indexOf(compNumb) //массив доступных компов
     return { user: true, access: (position >= 0) }
   }
   return { user: false, access: false }
