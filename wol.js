@@ -8,17 +8,11 @@
   }
 }
 
-const TelegramBot = require('node-telegram-bot-api')
+import TelegramBot from 'node-telegram-bot-api';
 
 const checkAccess = toCatch(require('./db').checkAccess)
 
-const {
-  wol,
-  pcoff,
-  token,
-  bot: botConfig,
-  MACs,
-} = require('./config')
+import { wol, pcoff, token, bot as botConfig, MACs } from './config.js';
 console.table({token, ...MACs})
 
 const bot = new TelegramBot(token, { polling: true });

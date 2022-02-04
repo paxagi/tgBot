@@ -43,7 +43,6 @@ const checkAccess = (compNumb, userid) => {
   return { user: false, access: false }
 }
 
-module.exports = {
-  users,
+export default {
   checkAccess,
 }
