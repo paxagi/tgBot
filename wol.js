@@ -9,11 +9,12 @@
 }
 
 import TelegramBot from 'node-telegram-bot-api';
+import dbFn from './db.js';
+import { bot as botConfig, macs, pcoff, token, wol } from './config.js';
 
-const checkAccess = toCatch(require('./db').checkAccess)
+const checkAccess = toCatch(dbFn)
 
-import { wol, pcoff, token, bot as botConfig, MACs } from './config.js';
-console.table({token, ...MACs})
+console.table({token, ...macs})
 
 const bot = new TelegramBot(token, { polling: true });
 
@@ -47,7 +48,7 @@ bot.on('message', (msg) => {
         'включи': {
           'комп': numb => {
             const n = Number(numb)
-            const mac = MACs[n]
+            const mac = macs[n]
             const check = checkAccess(n, userid)
             console.log(check);
             if (!check.user) {
@@ -69,7 +70,7 @@ bot.on('message', (msg) => {
         'выключи': {
           'комп': numb => {
             const n = Number(numb)
-            const mac = MACs[n]
+            const mac = macs[n]
             const check = checkAccess(n, userid)
             console.log(check);
             if (!check.user) {

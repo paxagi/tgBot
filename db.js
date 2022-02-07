@@ -31,7 +31,7 @@ const users = [
   },
 ]
 
-const checkAccess = (compNumb, userid) => {
+export default (compNumb, userid) => {
   const user = users.filter(user => user.tgUserId === userid)[0]
   if (user?.comps === 'all') {
     return { user: true, access: true }
@@ -41,8 +41,4 @@ const checkAccess = (compNumb, userid) => {
     return { user: true, access: (position >= 0) }
   }
   return { user: false, access: false }
-}
-
-export default {
-  checkAccess,
 }
