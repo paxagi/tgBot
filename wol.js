@@ -46,7 +46,7 @@ bot.on('message', (msg) => {
           `бот разработан компанией ООО мега-трейд, разработчик / редактор кода: Роман Мамедов, Арафаилов Артем`)
         },
         'включи': {
-          'комп': numb => {
+          'комп': (numb = 0) => {
             const n = Number(numb)
             const mac = macs[n]
             const check = checkAccess(n, userid)
@@ -68,7 +68,7 @@ bot.on('message', (msg) => {
           },
         },
         'выключи': {
-          'комп': numb => {
+          'комп': (numb = 0) => {
             const n = Number(numb)
             const mac = macs[n]
             const check = checkAccess(n, userid)
