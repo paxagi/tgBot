@@ -16,8 +16,8 @@ const users = [
   },
   {
     username: 'test',
-    tgUserId: 16001314370,
-    comps: manegers
+    tgUserId: 1600131437,
+    comps: 'all'
   },
   {
     username: 'arafailov-as',
