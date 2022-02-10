@@ -48,6 +48,7 @@ bot.on('message', (msg) => {
         'включи': {
           'комп': (numb = 0) => {
             const n = Number(numb)
+            const macIsExist = Boolean(macs[n])
             const mac = [].concat(macs[n])
             const check = checkAccess(n, userid)
             console.log(check);
@@ -59,7 +60,8 @@ bot.on('message', (msg) => {
               sendReply('вам запрещено')
               return
             }
-            if (mac) {
+            if (macIsExist) {
+              console.log(mac);
               sendReply('минутку, включаю...')
               for (const one of mac) {
                 wol.wake(one)
