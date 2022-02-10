@@ -48,7 +48,7 @@ bot.on('message', (msg) => {
         'включи': {
           'комп': (numb = 0) => {
             const n = Number(numb)
-            const mac = macs[n]
+            const mac = [].concat(macs[n])
             const check = checkAccess(n, userid)
             console.log(check);
             if (!check.user) {
@@ -61,7 +61,9 @@ bot.on('message', (msg) => {
             }
             if (mac) {
               sendReply('минутку, включаю...')
-              wol.wake(mac)
+              for (const one of mac) {
+                wol.wake(one)
+              }
             } else {
               sendReply('ПК с таким номером нет')
             }
@@ -95,6 +97,7 @@ bot.on('message', (msg) => {
   
   function executeTextCommand(text) {
     const words = text.split(' ')
+    console.log(words);
     let remote = tgUsersCommandsTree
     let isEnd
     for (const word of words) {
@@ -114,11 +117,6 @@ bot.on('message', (msg) => {
 
     if (isEnd) {
       remote[end]()
-      return
-    }
-
-    if (typeof remote === 'function') {
-      remote()
       return
     }
 
