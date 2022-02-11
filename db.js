@@ -1,4 +1,3 @@
-const skirko = [1, 2]
 const manegers = [7, 9, 11]
 const enginears = [5, 8, 15]
 
@@ -6,22 +5,17 @@ const enginears = [5, 8, 15]
 const users = [
   {
     username: 'skirko-vn',
-    tgUserId: 0,
+    tgUserId: 1193433019,
     comps: 'all'
   },
   {
-    username: 'rozevskaya-v?',
-    tgUserId: 0,
-    comps: manegers
-  },
-  {
-    username: 'test',
-    tgUserId: 1600131437,
-    comps: 'all'
+    username: 'rozevskaya-vv',
+    tgUserId: 1033242372,
+    comps: manegers,
   },
   {
     username: 'arafailov-as',
-    tgUserId: 171549268,
+    tgUserId: 1078469403,
     comps: 11,
   },
   {
@@ -29,6 +23,11 @@ const users = [
     tgUserId: 825873412,
     comps: 'all',
   },
+  {
+    username: 'sorokina-mv',
+    tgUserId: 983947898,
+    comps: 9,
+  }
 ]
 
 export default (compNumb, userid) => {

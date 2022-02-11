@@ -61,10 +61,10 @@ bot.on('message', (msg) => {
               return
             }
             if (macIsExist) {
-              console.log(mac);
               sendReply('минутку, включаю...')
               for (const one of mac) {
                 wol.wake(one)
+                console.log(one);
               }
             } else {
               sendReply('ПК с таким номером нет')
@@ -86,7 +86,7 @@ bot.on('message', (msg) => {
             return
           }
           if (mac) {
-            pcoff(n)
+            pcoff(`comp${n}`)
             sendReply(`выключаю комп ${n}`)
           } else {
             sendReply('ПК с таким номером нет')
